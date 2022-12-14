@@ -1,0 +1,16 @@
+C:\Users\dante\Desktop\turing\bin\Debug\net5.0\turing.exe
+C:\Users\dante\Desktop\turing\bin\Debug\net5.0\turing.deps.json
+C:\Users\dante\Desktop\turing\bin\Debug\net5.0\turing.runtimeconfig.json
+C:\Users\dante\Desktop\turing\bin\Debug\net5.0\turing.runtimeconfig.dev.json
+C:\Users\dante\Desktop\turing\bin\Debug\net5.0\turing.dll
+C:\Users\dante\Desktop\turing\bin\Debug\net5.0\ref\turing.dll
+C:\Users\dante\Desktop\turing\bin\Debug\net5.0\turing.pdb
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\turing.csproj.AssemblyReference.cache
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\turing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\turing.AssemblyInfoInputs.cache
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\turing.AssemblyInfo.cs
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\turing.csproj.CoreCompileInputs.cache
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\turing.dll
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\ref\turing.dll
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\turing.pdb
+C:\Users\dante\Desktop\turing\obj\Debug\net5.0\turing.genruntimeconfig.cache
