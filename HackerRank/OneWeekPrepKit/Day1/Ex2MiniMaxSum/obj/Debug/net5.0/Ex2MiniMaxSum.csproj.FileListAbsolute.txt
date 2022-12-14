@@ -1,0 +1,16 @@
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\bin\Debug\net5.0\Ex2MiniMaxSum.exe
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\bin\Debug\net5.0\Ex2MiniMaxSum.deps.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\bin\Debug\net5.0\Ex2MiniMaxSum.runtimeconfig.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\bin\Debug\net5.0\Ex2MiniMaxSum.runtimeconfig.dev.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\bin\Debug\net5.0\Ex2MiniMaxSum.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\bin\Debug\net5.0\ref\Ex2MiniMaxSum.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\bin\Debug\net5.0\Ex2MiniMaxSum.pdb
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\Ex2MiniMaxSum.csproj.AssemblyReference.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\Ex2MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\Ex2MiniMaxSum.AssemblyInfoInputs.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\Ex2MiniMaxSum.AssemblyInfo.cs
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\Ex2MiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\Ex2MiniMaxSum.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\ref\Ex2MiniMaxSum.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\Ex2MiniMaxSum.pdb
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex2MiniMaxSum\obj\Debug\net5.0\Ex2MiniMaxSum.genruntimeconfig.cache

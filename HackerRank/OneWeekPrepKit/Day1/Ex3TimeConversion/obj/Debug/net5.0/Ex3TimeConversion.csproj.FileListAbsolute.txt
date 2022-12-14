@@ -1,0 +1,16 @@
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\bin\Debug\net5.0\Ex3TimeConversion.exe
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\bin\Debug\net5.0\Ex3TimeConversion.deps.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\bin\Debug\net5.0\Ex3TimeConversion.runtimeconfig.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\bin\Debug\net5.0\Ex3TimeConversion.runtimeconfig.dev.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\bin\Debug\net5.0\Ex3TimeConversion.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\bin\Debug\net5.0\ref\Ex3TimeConversion.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\bin\Debug\net5.0\Ex3TimeConversion.pdb
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\Ex3TimeConversion.csproj.AssemblyReference.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\Ex3TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\Ex3TimeConversion.AssemblyInfoInputs.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\Ex3TimeConversion.AssemblyInfo.cs
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\Ex3TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\Ex3TimeConversion.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\ref\Ex3TimeConversion.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\Ex3TimeConversion.pdb
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day1\Ex3TimeConversion\obj\Debug\net5.0\Ex3TimeConversion.genruntimeconfig.cache

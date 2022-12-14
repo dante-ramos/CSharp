@@ -1,0 +1,16 @@
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\Ex1lonelyinteger.csproj.AssemblyReference.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\Ex1lonelyinteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\Ex1lonelyinteger.AssemblyInfoInputs.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\Ex1lonelyinteger.AssemblyInfo.cs
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\Ex1lonelyinteger.csproj.CoreCompileInputs.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\bin\Debug\net5.0\Ex1lonelyinteger.exe
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\bin\Debug\net5.0\Ex1lonelyinteger.deps.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\bin\Debug\net5.0\Ex1lonelyinteger.runtimeconfig.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\bin\Debug\net5.0\Ex1lonelyinteger.runtimeconfig.dev.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\bin\Debug\net5.0\Ex1lonelyinteger.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\bin\Debug\net5.0\ref\Ex1lonelyinteger.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\bin\Debug\net5.0\Ex1lonelyinteger.pdb
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\Ex1lonelyinteger.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\ref\Ex1lonelyinteger.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\Ex1lonelyinteger.pdb
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex1lonelyinteger\obj\Debug\net5.0\Ex1lonelyinteger.genruntimeconfig.cache

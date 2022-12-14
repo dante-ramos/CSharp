@@ -1,0 +1,16 @@
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\bin\Debug\net5.0\Ex2diagonalDifference.exe
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\bin\Debug\net5.0\Ex2diagonalDifference.deps.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\bin\Debug\net5.0\Ex2diagonalDifference.runtimeconfig.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\bin\Debug\net5.0\Ex2diagonalDifference.runtimeconfig.dev.json
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\bin\Debug\net5.0\Ex2diagonalDifference.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\bin\Debug\net5.0\ref\Ex2diagonalDifference.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\bin\Debug\net5.0\Ex2diagonalDifference.pdb
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\Ex2diagonalDifference.csproj.AssemblyReference.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\Ex2diagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\Ex2diagonalDifference.AssemblyInfoInputs.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\Ex2diagonalDifference.AssemblyInfo.cs
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\Ex2diagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\Ex2diagonalDifference.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\ref\Ex2diagonalDifference.dll
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\Ex2diagonalDifference.pdb
+C:\Users\dante\Desktop\HackerRank\OneWeekPrepKit\Day2\Ex2diagonalDifference\obj\Debug\net5.0\Ex2diagonalDifference.genruntimeconfig.cache
